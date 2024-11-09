@@ -1,2 +1,20 @@
 # Heart-Disease-Prediction-UCI-Dataset
-Analysis and comparison of machine learning models for predicting heart disease using the UCI dataset
+This repository contains an analysis and comparison of various machine learning models to predict heart disease using the UCI dataset.
+
+## Project Overview
+- The goal of this project is to evaluate different models' performance based on metrics such as accuracy, precision, recall, and F1 score.
+- The models analyzed include:
+  - Neural Network
+  - Logistic Regression
+  - XGBoost
+  - Simplified XGBoost
+
+## Notebooks
+- `Heart Disease Prediction UCI Dataset.ipynb`: The Jupyter Notebook containing the data preprocessing, model training, and evaluation.
+
+## Visualizations
+![Performance Comparison](./analysis_plots/Models_Performance.png)
+
+## Dependencies
+To run the code, install the required packages:
+[requirements.txt](https://github.com/user-attachments/files/17686506/requirements.txt)

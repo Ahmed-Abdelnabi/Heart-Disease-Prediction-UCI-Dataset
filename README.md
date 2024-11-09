@@ -13,8 +13,8 @@ This repository contains an analysis and comparison of various machine learning 
 - `Heart Disease Prediction UCI Dataset.ipynb`: The Jupyter Notebook containing the data preprocessing, model training, and evaluation.
 
 ## Visualizations
-Models Performance for Predicting Heart Diesease.png
+[Models Performance for Predicting Heart Diesease.png](https://github.com/Ahmed-Abdelnabi/Heart-Disease-Prediction-UCI-Dataset/blob/main/Models%20Performance%20for%20Predicting%20Heart%20Diesease.png)
 
 ## Dependencies
 To run the code, install the required packages:
-requirements.txt
+[requirements.txt](https://github.com/Ahmed-Abdelnabi/Heart-Disease-Prediction-UCI-Dataset/blob/main/requirements.txt)
